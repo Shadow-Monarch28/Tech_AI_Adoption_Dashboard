@@ -16,7 +16,7 @@ evolution, AI adoption, media consumption, and digital transformation across
 
 ---
 ## 📄 Dashboard PDF
-[View Full Dashboard PDF](TechPulse_5Nation_Dashboard.pdf)
+[View Full Dashboard PDF](Dashboard/TechPulse_5Nation_Dashboard.pdf)
 ---
 
 ## 🔍 Project Overview
