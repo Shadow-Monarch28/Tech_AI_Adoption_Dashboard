@@ -1,4 +1,4 @@
-# TechPulse_5Nation 🌐
+# Tech_AI_Adoption_Dashboard 🌐
 ### Cross-Country Technology Adoption & AI Analytics (1990–2030)
 
 An end-to-end data analytics portfolio project analysing 35 years of technology 
@@ -49,7 +49,7 @@ evolution, AI adoption, media consumption, and digital transformation across
 ## 📁 Project Structure
 
 ```
-TechPulse_5Nation/
+Tech_AI_Adoption_Dashboard/
 │
 ├── Data Generator/
 │   └── 01_Data_generator_for_Tech_Ai.ipynb
