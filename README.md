@@ -52,7 +52,7 @@ evolution, AI adoption, media consumption, and digital transformation across
 TechPulse_5Nation/
 │
 ├── Data Generator/
-│   └── 01_data_generation_and_cleaning.ipynb
+│   └── 01_Data_generator_for_Tech_Ai.ipynb
 │       — Synthetic data generation using Faker
 │       — Country + sector specific bias injection
 │       — Direct MySQL push via SQLAlchemy
@@ -71,13 +71,13 @@ TechPulse_5Nation/
 │   └── 01_cleaning_company_adaptation.sql
 │
 ├── Visuals/
-│   └── 32 EDA charts saved as PNG
-│       ├── media_01 to media_08
+│   └── 31 EDA charts saved as PNG
+│       ├── media_01 to media_07
 │       ├── app_01 to app_08
 │       ├── ai_01 to ai_08
 │       └── comp_01 to comp_08
 │
-├── TechPulse_5Nation_Dashboard.pbix
+├── Tech_AI_Adoption_Dashboard.pbix
 └── README.md
 ```
 
@@ -190,7 +190,7 @@ finalized_path = r"YOUR_FINALIZED_PATH"
 5. 04_EDA_AI.ipynb
 6. 05_EDA_Comp.ipynb
 7. 06_KPI_Calculation_CCTA.ipynb
-8. Open TechPulse_5Nation_Dashboard.pbix in Power BI
+8. Open Tech_AI_Adoption_Dashboard.pbix in Power BI
 9. Refresh data from Finalized folder
 
 ---
@@ -206,9 +206,7 @@ finalized_path = r"YOUR_FINALIZED_PATH"
 
 ## 👤 Author
 
-**Abishek**
-Customer Service Representative → Aspiring Data Analyst
-📍 Gurgaon, India
+**Abishek** | Aspiring Data Analyst |📍 Gurgaon, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abishek28m/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Shadow-Monarch28?tab=repositories)
